@@ -1,0 +1,1 @@
+This is a simple implementation of the JavaScript Hash tables data structure according to the object-oriented paradigm (JavaScript ES6).
